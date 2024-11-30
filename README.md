@@ -26,7 +26,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/vansh132/technozia.git
+    git clone https://github.com/riyahshah22/technozia.git
     cd technozia
     ```
 
